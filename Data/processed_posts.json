@@ -1,0 +1,102 @@
+[
+    {
+        "text": "I\u2019m thrilled to share our latest work on Seattle Air Quality Forecasting! Using a multivariate time series model (ARIMA_PLUS_XREG), we analyzed data from the EPA\u2019s historical air quality records to predict daily PM2.5 levels, wind speed, and temperature. The project included: \n\u2705 Building robust time series models with BigQuery and dbt Cloud. \u2705 Creating insightful visualizations using Looker Studio to uncover trends and seasonal patterns. \u2705 Leveraging advanced forecasting techniques to predict air quality levels and identify key factors influencing Seattle's air quality. \nYou can explore the project and reports here: https://github.com/dhawalpanchal1997?tab=repositories \n#DataScience #AirQuality #Forecasting #BigQuery #LookerStudio #TimeSeries #CloudComputing",
+        "engagement": 92,
+        "line_count": 4,
+        "language": "English",
+        "tags": [
+            "Air Quality",
+            "Data Science"
+        ]
+    },
+    {
+        "text": "\ud83c\udfb6 **Spotify Data Analysis: Uncovering Music Trends & Insights!** \ud83d\udcca\nI\u2019m excited to share my **Spotify Data Analysis** project, where I explored music trends, artist performance, and genre characteristics to understand what makes songs and artists successful. With the help of Python and powerful libraries like **Pandas, Matplotlib, and Seaborn**, I conducted in-depth analysis and visualizations to reveal key patterns in music consumption.\nKey findings include:\n\ud83c\udfa7 **Popularity vs Acousticness**: Analyzing how acoustic features correlate with song popularity.\n\ud83c\udfb6 **Genre Characteristics**: Delving into the average song duration per genre and more.\n\ud83d\udd25 **Top Genres**: Identifying the top 5 genres based on popularity.\n\ud83d\udca1 **Attribute Correlations**: Uncovering relationships between tempo, duration, and popularity.\nExplore the full project with interactive visualizations on GitHub:https://github.com/dhawalpanchal1997?tab=repositories  \ud83d\udd17\nWould love to hear your thoughts! What music trends do you think are most influential? Let\u2019s discuss! \ud83d\ude80\n#DataScience #Python #Spotify #EDA #MusicAnalytics #MachineLearning #DataVisualization #MusicIndustry #DataAnalysis",
+        "engagement": 96,
+        "line_count": 9,
+        "language": "English",
+        "tags": [
+            "Python",
+            "Data Science"
+        ]
+    },
+    {
+        "text": "\u2728 Exploring Data with Python: The Power of EDA \u2728\nData is the new oil, but it needs refining! \ud83d\udd0d That's where Exploratory Data Analysis (EDA) comes in.\nWith Python, EDA is a game-changer! Tools like Pandas, Matplotlib, Seaborn, and Plotly help uncover hidden patterns, outliers, and relationships in data. \ud83d\udca1 Whether it's cleaning messy data, visualizing trends, or preparing for model building, EDA is the foundation of any successful data science project.\nHere's the process in a nutshell:\n 1\ufe0f\u20e3 Understand your dataset with .info() and .describe()\n 2\ufe0f\u20e3 Visualize distributions, correlations, and trends\n 3\ufe0f\u20e3 Identify & handle missing values and outliers\n 4\ufe0f\u20e3 Transform data for better insights\nEDA is not just a step\u2014it's a mindset! \ud83d\ude80 Start your Python-powered data exploration journey today and let your insights shine.\n#Python #DataScience #EDA #DataAnalysis #AI #MachineLearning",
+        "engagement": 92,
+        "line_count": 9,
+        "language": "English",
+        "tags": [
+            "Python",
+            "Data Science"
+        ]
+    },
+    {
+        "text": "\ud83d\ude80 Excited to share my latest project on Retail Orders Data Analysis!\nUsing Microsoft SQL Server and Python, I explored retail order trends to uncover key business insights. This project involved:\n\u2705 Data Extraction & Processing: Cleaning and transforming raw data from Kaggle for analysis.\n\u2705 SQL Server Integration: Loading structured data into a relational database for optimized querying.\n\u2705 Business Insights via SQL Queries:\n\ud83d\udd39 Identified top-selling products & high-revenue generators.\n\ud83d\udd39 Analyzed month-over-month sales trends (2022 vs. 2023).\n\ud83d\udd39 Determined the most profitable sub-category growth.\nThis project highlights how SQL & Python can drive data-driven decision-making in retail. Future plans include ETL automation and interactive dashboards with Power BI/Tableau for deeper insights.\n\ud83d\udcca Check out the full project: https://github.com/dhawalpanchal1997?tab=repositories \nWould love to hear your thoughts! What other insights would you explore in retail data?\n#DataAnalytics #SQL #RetailAnalytics #Python #BusinessIntelligence #DataDriven #PowerBI",
+        "engagement": 95,
+        "line_count": 12,
+        "language": "English",
+        "tags": [
+            "SQL",
+            "Data Analytics"
+        ]
+    },
+    {
+        "text": "\ud83d\ude80 Excited to share my latest project: E-Commerce Customer Segmentation!\nUsing K-Means clustering and Python, I analyzed transactional data from a UK-based online retailer (2010-2011) to uncover customer segments and enhance marketing strategies. This project involved:\n\u2705 Data Cleaning & Feature Engineering: Handling missing values, outliers & creating customer-centric features.\n\u2705 Customer Segmentation: Applying K-Means clustering to group customers based on purchasing behavior.\n\u2705 Cluster Analysis & Insights: Identifying spending patterns to tailor marketing strategies.\n\u2705 Recommendation System: Suggesting best-selling products to different customer segments for personalized offers.\nTechnologies Used: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly\n\ud83d\udcca Future enhancements include collaborative filtering for recommendations and automating real-time segmentation.\n\ud83d\udd17 Check out the full project: https://github.com/dhawalpanchal1997?tab=repositories \nWhat are your thoughts on customer segmentation for e-commerce? Let\u2019s discuss! \ud83d\ude80\n#DataScience #CustomerSegmentation #MachineLearning #Ecommerce #Python #BusinessIntelligence #DataDrivenMarketing",
+        "engagement": 96,
+        "line_count": 14,
+        "language": "English",
+        "tags": [
+            "Customer Segmentation",
+            "Data Science"
+        ]
+    },
+    {
+        "text": "\ud83d\ude80 Excited to share my latest project: **Automating Crypto Data Extraction & Analysis!**\nUsing **Python and CoinGecko API**, I automated the process of fetching real-time cryptocurrency market data, storing historical records, and visualizing key insights. This project includes:\n\u2705 **Automated API Calls**: Fetching crypto market data at scheduled intervals.\n\u2705 **Data Storage & Processing**: Appending real-time data to a CSV file and cleaning it using Pandas.\n\u2705 **Data Visualization**: Plotting trends with **Seaborn & Matplotlib** for market insights.\n\u2705 **Error Handling**: Ensuring smooth execution even with API request failures.\n\ud83d\udd0d **Technologies Used**: Python, Pandas, Seaborn, Matplotlib, Requests, CoinGecko API\n\ud83d\udca1 Future plans include **database integration, predictive modeling, and automated scheduling** for continuous data extraction.\n\ud83d\udd17 Check out the full project: https://github.com/dhawalpanchal1997?tab=repositories \nHow do you leverage crypto data for insights? Let\u2019s discuss! \ud83d\ude80\n#CryptoAnalytics #DataAutomation #Python #CoinGecko #CryptoMarket #DataScience #APIAutomation",
+        "engagement": 94,
+        "line_count": 11,
+        "language": "English",
+        "tags": [
+            "Data Automation",
+            "Crypto Analytics"
+        ]
+    },
+    {
+        "text": "\ud83d\ude80 Excited to share my latest project: Fortune 100 Companies Analysis!\nUsing Python and Web Scraping, I analyzed the largest U.S. companies by revenue, extracting insights into industry revenue distribution, employee count, and growth trends. This project involved:\n\u2705 Web Scraping: Extracting company data from Wikipedia using BeautifulSoup\n\u2705 Data Cleaning & Transformation: Converting revenue, growth rates & employee counts with Pandas\n\u2705 Exploratory Data Analysis (EDA):\n\ud83d\udd39 Top 10 Companies by Revenue \ud83d\udcca\n\ud83d\udd39 Industry-wise Growth & Employee Distribution\n\ud83d\udd39 State-wise Company Headquarters\n\ud83d\udd39 Revenue vs. Employee Count Correlations\n\ud83d\udd0d Technologies Used: Python, BeautifulSoup, Pandas, Matplotlib, Seaborn\n\ud83d\udca1 Future plans include automating data updates, integrating financial metrics, and building interactive dashboards.\n\ud83d\udd17 Check out the full project: https://github.com/dhawalpanchal1997?tab=repositories \nWhat are your thoughts on revenue distribution across industries? Let\u2019s discuss! \ud83d\ude80\n#DataScience #WebScraping #Python #Fortune100 #BusinessAnalytics #DataVisualization #Pandas #BeautifulSoup",
+        "engagement": 93,
+        "line_count": 15,
+        "language": "English",
+        "tags": [
+            "Web Scraping",
+            "Data Science"
+        ]
+    },
+    {
+        "text": "\ud83d\ude80 Automating News Scraping & Sentiment Analysis with Python\nExcited to share my latest project\u2014a news scraper and analyzer that fetches articles from RSS feeds, processes content, and extracts valuable insights using sentiment analysis and keyword extraction!\n\ud83d\udd39 Features:\n\u2705 Automated News Scraping: Fetches articles from RSS feeds \ud83d\udce1\n\u2705 Sentiment Analysis: Categorizes articles as positive, negative, or neutral \ud83d\udcca\n\u2705 Keyword Extraction: Identifies top noun phrases for topic analysis \ud83c\udff7\ufe0f\n\u2705 Excel Data Export: Stores structured insights for further use \ud83d\udcc2\n\ud83d\udd0d Technologies Used:\n\ud83d\udc0d Python | \ud83d\udcf0 newspaper | \ud83d\udd0d feedparser | \ud83d\udcca TextBlob | \ud83d\udcc8 pandas\n\ud83d\udca1 Next Steps:\nAutomate scheduled scraping for real-time updates\nExpand keyword analysis using advanced NLP models\nIntegrate a dashboard for live article trends\n\ud83d\udd17 Check out the full project: https://github.com/dhawalpanchal1997?tab=repositories \nWould love to hear your thoughts\u2014how do you see sentiment analysis impacting news consumption? Let\u2019s discuss!\n#Python #WebScraping #NLP #DataScience #Automation #SentimentAnalysis #NewsAnalytics #RSS #MachineLearning",
+        "engagement": 91,
+        "line_count": 19,
+        "language": "English",
+        "tags": [
+            "Python",
+            "Web Scraping"
+        ]
+    },
+    {
+        "text": "\ud83d\udd0d Mastering SQL with AdventureWorks! \ud83d\ude80\nI\u2019ve been diving deep into SQL analysis using the AdventureWorks database, a widely used dataset for learning database management and analytics. This project helped me sharpen my SQL skills in areas like:\n\u2705 Aggregate Functions \u2013 Total sales, customer spending, and payment insights \ud83d\udcb0\n\u2705 DDL/DML/DQL Queries \u2013 Creating, updating, and managing relational data \ud83d\udd04\n\u2705 Joins & Subqueries \u2013 Extracting meaningful insights across multiple tables \ud83d\udd17\n\u2705 Date & String Functions \u2013 Analyzing sales trends, formatting, and text transformations \ud83d\udcca\n\u2705 Pattern Matching & Wildcards \u2013 Filtering and searching data dynamically \ud83d\udd0d\nI\u2019ve structured my SQL scripts to solve real-world business problems, from sales performance tracking to employee and product analysis.\nCheck out the full project here: https://github.com/dhawalpanchal1997?tab=repositories \ud83d\udd17\nWould love to hear your thoughts\u2014what\u2019s your favorite SQL challenge to solve? Let\u2019s connect and discuss! \u26a1\n#SQL #DataAnalytics #BusinessIntelligence #AdventureWorks #DataDriven #SQLServer #Learning",
+        "engagement": 90,
+        "line_count": 12,
+        "language": "English",
+        "tags": [
+            "SQL",
+            "Data Analytics"
+        ]
+    },
+    {
+        "text": "\ud83d\udcca **Zomato Data Analysis: Uncovering Restaurant Trends with Python!** \ud83c\udf7d\ufe0f\nJust wrapped up an **exploratory data analysis (EDA)** of the **Zomato dataset**, diving deep into restaurant trends, customer preferences, and pricing insights. Using **Python** and visualization tools, I extracted key takeaways such as:\n\u2705 **Restaurant Popularity** \u2013 Dining restaurants receive the most votes \ud83c\udf7d\ufe0f\n\u2705 **Online Orders Impact** \u2013 Cafes dominate online orders, while dining spots prefer offline \ud83d\udcf2\n\u2705 **Ratings Breakdown** \u2013 Most restaurants are rated between **3.5 to 4.0** \u2b50\n\u2705 **Cost Sensitivity** \u2013 \u20b9300 is the sweet spot for two people \ud83d\udcb0\n\u2705 **Online vs Offline Ratings** \u2013 Online orders tend to receive **higher ratings** compared to offline\nTo bring these insights to life, I used **Matplotlib, Seaborn, and Pandas** for **data cleaning, preprocessing, and visualization**. \ud83d\udcca\nCheck out the full project here: https://github.com/dhawalpanchal1997?tab=repositories \ud83d\udd17\nWould love to hear your thoughts! What\u2019s the most interesting trend you've seen in food analytics? Let\u2019s discuss! \ud83d\ude80\n#DataScience #Python #Zomato #EDA #DataAnalysis #MachineLearning #Visualization #BusinessAnalytics",
+        "engagement": 92,
+        "line_count": 11,
+        "language": "English",
+        "tags": [
+            "Python",
+            "Data Science"
+        ]
+    }
+]
